@@ -1,0 +1,1 @@
+    printf("Your first number is : %d and your second number : %d", num1, num2);

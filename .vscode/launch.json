@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/saminravi99/Desktop/Projects/saminravi99/CSE1102/Class-3",
+      "program": "/Users/saminravi99/Desktop/Projects/saminravi99/CSE1102/Class-3/build/Debug/outDebug"
+    }
+  ]
+}
